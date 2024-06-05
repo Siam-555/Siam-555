@@ -1,1 +1,1 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?Siam-555=Siam-555">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Siam-555.Siam-555">
