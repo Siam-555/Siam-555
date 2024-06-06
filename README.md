@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **FIVERR**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Node JS, Python, React Native**
 
 💬 Ask me about **HTML, CSS, Tailwind, ReactJS or anything [here](https://github.com/Siam-555/Siam-555/issues)**
 
@@ -31,7 +31,7 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages, Frameworks,Tools I Use ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,vscode,html,javascript,css,git,github,figma" />
@@ -42,7 +42,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Contributions Got Eaten By Snake 🐍</h2>
   <br>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Siam-555/Siam-555/output/github-contribution-grid-snake-dark.svg" />
@@ -58,4 +58,5 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siam-555&layout=compact&langs_count=8&theme=react&border_radius=10&count_private=true" />
 </div>
 
-<br/><br/>
+<br/>
+<hr/>
